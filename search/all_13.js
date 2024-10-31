@@ -1,6 +1,28 @@
 var searchData=
 [
-  ['uint32_0',['UINT32',['../structcmd_8h.html#ae1e6edbbc26d6fbc71a90190d0266018',1,'structcmd.h']]],
-  ['ungroupedfunction_1',['ungroupedFunction',['../classMemgrp__Test.html#a8a3a4ac34b2e25696159ac420bd4bdc6',1,'Memgrp_Test']]],
-  ['usage_20notes_2',['Usage Notes',['../md_usage.html',1,'']]]
+  ['second_20group_0',['The Second Group',['../group__group2.html',1,'']]],
+  ['section_20in_20group_205_1',['section in group 5',['../group__group5.html',1,'This is a section in group 5'],['../group__group5.html',1,'This is another section in group 5']]],
+  ['sel_2',['sel',['../classmux__using__with.html#ac474329b8f25c575e4376d65f6a3e43f',1,'mux_using_with']]],
+  ['sensors_3',['Arduino library for the Pololu QTR Reflectance Sensors',['../index.html',1,'']]],
+  ['sensors_4',['Reading the sensors',['../md_usage.html#autotoc_md10',1,'']]],
+  ['setdimmable_5',['setDimmable',['../classQTRSensors.html#a781887fb85ebb9c97df4c9e97a7be6b1',1,'QTRSensors']]],
+  ['setdimminglevel_6',['setDimmingLevel',['../classQTRSensors.html#a33c0a5c97bb7a3546a6b30ae4baa209a',1,'QTRSensors']]],
+  ['setemitterpin_7',['setEmitterPin',['../classQTRSensors.html#a50ddff66a733e268eece669f6e48486a',1,'QTRSensors']]],
+  ['setemitterpins_8',['setEmitterPins',['../classQTRSensors.html#a6f49e24d8eaa2a59ef313c24ab722a86',1,'QTRSensors']]],
+  ['setnondimmable_9',['setNonDimmable',['../classQTRSensors.html#a80964b2b065c02c5a7153bd600aedf6d',1,'QTRSensors']]],
+  ['setsamplespersensor_10',['setSamplesPerSensor',['../classQTRSensors.html#a6f72b422c1cd71ab5c0df661f27a0d8b',1,'QTRSensors']]],
+  ['setsensorpins_11',['setSensorPins',['../classQTRSensors.html#affa15ba6cbde69fd375f41e5fc63b156',1,'QTRSensors']]],
+  ['settimeout_12',['setTimeout',['../classQTRSensors.html#ab145ce7a7269f51b45863dafb9d61afd',1,'QTRSensors']]],
+  ['settypeanalog_13',['setTypeAnalog',['../classQTRSensors.html#a869bfa11368f248f64d981aa583a6afe',1,'QTRSensors']]],
+  ['settyperc_14',['setTypeRC',['../classQTRSensors.html#a411f4a800c4e297a6b0ada8efece043d',1,'QTRSensors']]],
+  ['software_15',['Software',['../index.html#autotoc_md5',1,'']]],
+  ['someniceclass_16',['SomeNiceClass',['../classSomeNiceClass.html',1,'']]],
+  ['started_17',['Getting started',['../index.html#autotoc_md3',1,'']]],
+  ['std_5flogic_5f1164_18',['std_logic_1164',['../classmux__using__with.html#ae984d6918908b859c4f9c9a950a0cfee',1,'mux_using_with']]],
+  ['strcmp_19',['strcmp',['../classString.html#a7ceb7d379a52f7e26418e7a446b4a41a',1,'String']]],
+  ['string_20',['String',['../classString.html',1,'']]],
+  ['stringdebug_21',['stringDebug',['../classString.html#a5c07384b505d25ae6f61fc7abf0b0e61',1,'String']]],
+  ['structcmd_2eh_22',['structcmd.h',['../structcmd_8h.html',1,'']]],
+  ['summary_23',['Summary',['../index.html#autotoc_md1',1,'']]],
+  ['suportadas_24',['Plataformas Suportadas',['../index.html#autotoc_md2',1,'']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['arduino_20library_20for_20the_20pololu_20qtr_20reflectance_20sensors_0',['Arduino library for the Pololu QTR Reflectance Sensors',['../index.html',1,'']]]
+  ['5_0',['5',['../group__group5.html',1,'This is a section in group 5'],['../group__group5.html',1,'This is another section in group 5']]]
 ];

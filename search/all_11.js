@@ -1,20 +1,13 @@
 var searchData=
 [
-  ['sel_0',['sel',['../classmux__using__with.html#ac474329b8f25c575e4376d65f6a3e43f',1,'mux_using_with']]],
-  ['setdimmable_1',['setDimmable',['../classQTRSensors.html#a781887fb85ebb9c97df4c9e97a7be6b1',1,'QTRSensors']]],
-  ['setdimminglevel_2',['setDimmingLevel',['../classQTRSensors.html#a33c0a5c97bb7a3546a6b30ae4baa209a',1,'QTRSensors']]],
-  ['setemitterpin_3',['setEmitterPin',['../classQTRSensors.html#a50ddff66a733e268eece669f6e48486a',1,'QTRSensors']]],
-  ['setemitterpins_4',['setEmitterPins',['../classQTRSensors.html#a6f49e24d8eaa2a59ef313c24ab722a86',1,'QTRSensors']]],
-  ['setnondimmable_5',['setNonDimmable',['../classQTRSensors.html#a80964b2b065c02c5a7153bd600aedf6d',1,'QTRSensors']]],
-  ['setsamplespersensor_6',['setSamplesPerSensor',['../classQTRSensors.html#a6f72b422c1cd71ab5c0df661f27a0d8b',1,'QTRSensors']]],
-  ['setsensorpins_7',['setSensorPins',['../classQTRSensors.html#affa15ba6cbde69fd375f41e5fc63b156',1,'QTRSensors']]],
-  ['settimeout_8',['setTimeout',['../classQTRSensors.html#ab145ce7a7269f51b45863dafb9d61afd',1,'QTRSensors']]],
-  ['settypeanalog_9',['setTypeAnalog',['../classQTRSensors.html#a869bfa11368f248f64d981aa583a6afe',1,'QTRSensors']]],
-  ['settyperc_10',['setTypeRC',['../classQTRSensors.html#a411f4a800c4e297a6b0ada8efece043d',1,'QTRSensors']]],
-  ['someniceclass_11',['SomeNiceClass',['../classSomeNiceClass.html',1,'']]],
-  ['std_5flogic_5f1164_12',['std_logic_1164',['../classmux__using__with.html#ae984d6918908b859c4f9c9a950a0cfee',1,'mux_using_with']]],
-  ['strcmp_13',['strcmp',['../classString.html#ae3c243f0bc797b9e4b15d2ef5e5aaa7c',1,'String']]],
-  ['string_14',['String',['../classString.html',1,'']]],
-  ['stringdebug_15',['stringDebug',['../classString.html#a5c07384b505d25ae6f61fc7abf0b0e61',1,'String']]],
-  ['structcmd_2eh_16',['structcmd.h',['../structcmd_8h.html',1,'']]]
+  ['qtr_20reflectance_20sensors_0',['Arduino library for the Pololu QTR Reflectance Sensors',['../index.html',1,'']]],
+  ['qtremitters_1',['QTREmitters',['../QTRSensors_8h.html#a8a1fa51172192d7a2b1ee72a4a2c0fde',1,'QTRSensors.h']]],
+  ['qtrmaxsensors_2',['QTRMaxSensors',['../QTRSensors_8h.html#a98359c1fa9fbe1bbaaf2df0576b8bb24',1,'QTRSensors.h']]],
+  ['qtrnoemitterpin_3',['QTRNoEmitterPin',['../QTRSensors_8h.html#a34bd40d76d9d5dd9578b47df2b074fd2',1,'QTRSensors.h']]],
+  ['qtrrcdefaulttimeout_4',['QTRRCDefaultTimeout',['../QTRSensors_8h.html#a7e8cb489efd119c74d039abf8461295b',1,'QTRSensors.h']]],
+  ['qtrreadmode_5',['QTRReadMode',['../QTRSensors_8h.html#a3de40c1ece9200d5dcd314dcfe655a6e',1,'QTRSensors.h']]],
+  ['qtrsensors_6',['QTRSensors',['../classQTRSensors.html',1,'']]],
+  ['qtrsensors_2eh_7',['QTRSensors.h',['../QTRSensors_8h.html',1,'']]],
+  ['qtrtype_8',['QTRType',['../QTRSensors_8h.html#a567e8f57951b4e85aad8f765b79cb71f',1,'QTRSensors.h']]],
+  ['qtstyle_5ftest_9',['QTstyle_Test',['../classQTstyle__Test.html',1,'QTstyle_Test'],['../classQTstyle__Test.html#a14a296ea4e2ad446712f2310bec60766',1,'QTstyle_Test::QTstyle_Test()']]]
 ];

@@ -1,18 +1,6 @@
 var searchData=
 [
-  ['c_0',['C',['../classC.html',1,'']]],
-  ['c1_1',['C1',['../classC1.html',1,'']]],
-  ['c2_2',['C2',['../classC2.html',1,'']]],
-  ['c3_3',['C3',['../classC3.html',1,'']]],
-  ['c4_4',['C4',['../classC4.html',1,'']]],
-  ['c5_5',['C5',['../classC5.html',1,'']]],
-  ['calibrate_6',['calibrate',['../classQTRSensors.html#a0021d844b691e1cf9e0fac2530b89c7e',1,'QTRSensors']]],
-  ['calibrationdata_7',['CalibrationData',['../structQTRSensors_1_1CalibrationData.html',1,'QTRSensors']]],
-  ['calibrationoff_8',['calibrationOff',['../classQTRSensors.html#a868276364c39750f9914abd50ec68c9d',1,'QTRSensors']]],
-  ['calibrationon_9',['calibrationOn',['../classQTRSensors.html#adba8c75f5bc2cf57732ee2b96507f339',1,'QTRSensors']]],
-  ['car_10',['Car',['../structCar.html',1,'Car'],['../manual_8c.html#a00b00bef7a37e8519a62cb3671105c4b',1,'Car():&#160;manual.c']]],
-  ['classvar_11',['classVar',['../classpyexample_1_1PyClass.html#abd17aff54e5b0ca194020c796c733546',1,'pyexample::PyClass']]],
-  ['close_12',['close',['../structcmd_8h.html#ae152484c890a24e4d9b4980e7b965be0',1,'structcmd.h']]],
-  ['coord_13',['Coord',['../restypedef_8cpp.html#a013489fb99c6a5b012db8ec66544a507',1,'restypedef.cpp']]],
-  ['coordstruct_14',['CoordStruct',['../structCoordStruct.html',1,'']]]
+  ['b_0',['B',['../classB.html',1,'B'],['../memgrp_8cpp.html#a111da81ae5883147168bbb8366377b10',1,'B:&#160;memgrp.cpp']]],
+  ['base_1',['base',['../structVehicle.html#ad7970f528d429f6fc1725173e93a77c2',1,'Vehicle::base'],['../structCar.html#ab8ff28306286da5a8b14fa9bdccaafaa',1,'Car::base'],['../structTruck.html#ad0ac321609dda1a6c552488b05ec7ac8',1,'Truck::base']]],
+  ['bug_20list_2',['Bug List',['../bug.html',1,'']]]
 ];

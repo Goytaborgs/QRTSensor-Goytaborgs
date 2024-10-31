@@ -1,12 +1,13 @@
 var searchData=
 [
-  ['qtremitters_0',['QTREmitters',['../QTRSensors_8h.html#a8a1fa51172192d7a2b1ee72a4a2c0fde',1,'QTRSensors.h']]],
-  ['qtrmaxsensors_1',['QTRMaxSensors',['../QTRSensors_8h.html#a98359c1fa9fbe1bbaaf2df0576b8bb24',1,'QTRSensors.h']]],
-  ['qtrnoemitterpin_2',['QTRNoEmitterPin',['../QTRSensors_8h.html#a34bd40d76d9d5dd9578b47df2b074fd2',1,'QTRSensors.h']]],
-  ['qtrrcdefaulttimeout_3',['QTRRCDefaultTimeout',['../QTRSensors_8h.html#a7e8cb489efd119c74d039abf8461295b',1,'QTRSensors.h']]],
-  ['qtrreadmode_4',['QTRReadMode',['../QTRSensors_8h.html#a3de40c1ece9200d5dcd314dcfe655a6e',1,'QTRSensors.h']]],
-  ['qtrsensors_5',['QTRSensors',['../classQTRSensors.html',1,'']]],
-  ['qtrsensors_2eh_6',['QTRSensors.h',['../QTRSensors_8h.html',1,'']]],
-  ['qtrtype_7',['QTRType',['../QTRSensors_8h.html#a567e8f57951b4e85aad8f765b79cb71f',1,'QTRSensors.h']]],
-  ['qtstyle_5ftest_8',['QTstyle_Test',['../classQTstyle__Test.html',1,'QTstyle_Test'],['../classQTstyle__Test.html#a14a296ea4e2ad446712f2310bec60766',1,'QTstyle_Test::QTstyle_Test()']]]
+  ['object_0',['Object',['../structObject.html',1,'Object'],['../manual_8c.html#ab1287b6141419421dc5c14b9f7756b0a',1,'Object:&#160;manual.c']]],
+  ['objref_1',['objRef',['../structObject.html#a71225073d06a793b9a6ea9263ed37b12',1,'Object']]],
+  ['objunref_2',['objUnref',['../structObject.html#a924ee0cecc906d148022b3f0d6325cfb',1,'Object']]],
+  ['oddeven_3',['OddEven',['../QTRSensors_8h.html#a3de40c1ece9200d5dcd314dcfe655a6ea194540c7816e1e0ee2ea7d726fee0872',1,'QTRSensors.h']]],
+  ['oddevenandoff_4',['OddEvenAndOff',['../QTRSensors_8h.html#a3de40c1ece9200d5dcd314dcfe655a6ea64a8e40b79cf77c7a7b40064641a6806',1,'QTRSensors.h']]],
+  ['off_5',['Off',['../QTRSensors_8h.html#a3de40c1ece9200d5dcd314dcfe655a6ead15305d7a4e34e02489c74a5ef542f36',1,'QTRSensors.h']]],
+  ['on_6',['On',['../QTRSensors_8h.html#a3de40c1ece9200d5dcd314dcfe655a6ea521c36a31c2762741cf0f8890cbe05e3',1,'QTRSensors.h']]],
+  ['onandoff_7',['OnAndOff',['../QTRSensors_8h.html#a3de40c1ece9200d5dcd314dcfe655a6eab861cf336f4ec44ae8edbd8d3473b9d5',1,'QTRSensors.h']]],
+  ['open_8',['open',['../structcmd_8h.html#a2c4414339f388561554c2deab11a1a07',1,'structcmd.h']]],
+  ['overload_5ftest_9',['Overload_Test',['../classOverload__Test.html',1,'']]]
 ];
